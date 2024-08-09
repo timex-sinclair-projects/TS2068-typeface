@@ -7,7 +7,7 @@ Special characters are mapped to their Unicode equivalent.
 NOTE: to make mapping easier the circumflex '^' has the 'up arrow' font since this is where it's located in the TS2068 character set. The 'up arrow' coexists at U+2191.
 
 Special character mapping:
-
+```
 Up arrow                                                U+2191  ↑
 Pound                                                   U+00A3  £
 Copyright                                               U+00A9  ©
@@ -26,7 +26,7 @@ Quadrant Upper Left and Upper Right and Lower Right     U+259C  ▜
 Quadrant Upper Right                                    U+259D  ▝
 Quadrant Upper Right and Lower Left                     U+259E  ▞
 Quadrant Upper Right and Lower Left and Lower Right     U+259F  ▟
-
+```
 The font file in this archive was created using Fontstruct the free, online font-building tool. This font was created by “jonnybgood”*. This font has a homepage where this archive and other versions may be found:
 https://fontstruct.com/fontstructions/show/2507039
 
