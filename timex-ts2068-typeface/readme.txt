@@ -1,8 +1,8 @@
-﻿This is a font for the Timex Sinclair TS2068. It only includes characters available in the TS2068 character set.
+﻿These are fonts for the Timex Sinclair TS2068. Both a pixelated and a softer font are included. They only include characters available in the TS2068 character set.
 
 Special characters are mapped to their Unicode equivalent.
 
-NOTE: to make mapping easier the circumflex '^' has the 'up arrow' font since this is where it's located in the TS2068 character set. The 'up arrow' coexists at U+2191.
+NOTE: to make mapping easier the circumflex '^' has the 'up arrow' character since this is where it's located in the TS2068 character set. The 'up arrow' also exists at U+2191.
 
 Special character mapping:
 
